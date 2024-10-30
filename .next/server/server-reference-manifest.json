@@ -1,0 +1,66 @@
+{
+  "node": {
+    "1ff7cbc3bea89915c35c160cda45c19196bbea8c": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "42bb58f2d6e598703d1c61e14de7ddf55a8201a4": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "6ed783c2858ef5f0faad4879cde8629a94666888": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "87838abce0c403320142012f2dd35617330e2f9d": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "b668a6545b65246a1424c120aea6b905353941af": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    },
+    "b6d064b94e5d48862df984e93fce6c908df495e2": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cacer%5C%5CDesktop%5C%5Czpooria%5C%5Cwild%20oasis%20test%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22createBooking%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22updateGuest%22%2C%22updateBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "VNthm4glOFDLrK0N2QM1QFyYf6RE2FlSada1gqA929Q="
+}
